@@ -151,3 +151,5 @@ TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TWRP_INCLUDE_LOGCAT := true
 BUILD_BROKEN_DUP_RULES := true
 
+# reduce recovery img size
+TW_EXCLUDE_SUPERSU := true
