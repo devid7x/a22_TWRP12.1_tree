@@ -152,3 +152,5 @@ BUILD_BROKEN_DUP_RULES := true
 
 # reduce recovery img size
 TW_EXCLUDE_SUPERSU := true
+TW_EXTRA_LANGUAGES :=
+TW_INCLUDE_NTFS_3G :=
